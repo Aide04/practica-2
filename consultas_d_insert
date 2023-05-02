@@ -1,0 +1,10 @@
+INSER into `tusuario`(`Id_Tusuario,`NombreTusu`,`Descrpcion`)VALUES
+(1,`Premium`,`Usuario con el aplicativo de pago`),
+(1,`Free`,`Usuario con el aplicativo gratis`);
+
+
+INSERT INTO `usuario`(`Id_Usuario`,`Nombre`,`Apellidos` ,`Email`,`Id_Tususario`,`Nick`,`Password`)values
+(`0`,`Aide`,`Alcauter Aponte`,`aalcauter1520@gmail.com`,`1`,`aide04`,`124lares`),
+(`1`,`Noemi`,`Alcauter Aponte`,`nalcauter1520@gmail.com`,`2`,`nalley`,`crus14`),
+(`2`,`Eduardo`,`Cruz Olvera`,`OlveraEduardo18@gmail.com`,`2`,`EDUARDO18`,`OLVERA147`),
+(`3`,`JORGE YAHIR`,`Cedillo Gonalez`,`jycediloo@gmail.com`,`2`,`cedilo`,`cedilo14`),

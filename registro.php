@@ -1,6 +1,6 @@
 <?php 
-"includes/Conexion.php";
- "includes/Accion.php" ;?>
+"includes/Conexta.php";
+ "includes/Accion.php";?>
 
 <!DOCTYPE html>
 <html lang="en">
